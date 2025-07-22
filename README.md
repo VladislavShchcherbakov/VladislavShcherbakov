@@ -1,4 +1,4 @@
-# Владислав Щербаков | Data Analyst
+# Владислав Щербаков | Аналитик данных
 
 • <img src="https://api.iconify.design/mdi:email.svg" width="16" alt="Email"/> ShcherbakovVS@hotmail.com • <img src="https://api.iconify.design/mdi:phone.svg" width="16" alt="Phone"/> +7(968) 400-12-03 • <img src="https://api.iconify.design/mdi:map-marker.svg" width="16" alt="Location"/> Москва • <img src="https://api.iconify.design/mdi:telegram.svg" width="16" alt="Telegram"/> [@ShcherbakovVladislav](https://t.me/ShcherbakovVladislav) • <img src="https://api.iconify.design/mdi:linkedin.svg" width="16" alt="LinkedIn"/> [Profile](https://linkedin.com/in/...)
 
