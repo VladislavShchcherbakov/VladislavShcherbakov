@@ -89,15 +89,29 @@
 </details>
 
 ---
-## **📜 Сертификаты**  
+## **📜 Сертификаты**
+
+### **🎓 Stepik**
 [<img src="https://img.shields.io/badge/-Stepik-01BABC?style=flat&logo=stepik&logoColor=white" alt="Stepik">](https://stepik.org)  
 - [«Поколение Python: курс для начинающих»](https://stepik.org/cert/2474707) *(2024)*  
 - [«Поколение Python: курс для продвинутых»](https://stepik.org/cert/2919133) *(2025)*  
 - [«Интерактивный тренажёр по SQL»](https://stepik.org/cert/2528386) *(2024)*  
+
+### **📚 Changellenge Education**
+[<img src="https://img.shields.io/badge/-Google_Drive-4285F4?style=flat&logo=google-drive&logoColor=white" alt="Google Drive">](https://drive.google.com/drive/folders/1QpmyMLnFiYN0NOQYL9t6uIIrERwd2p_b?usp=drive_link)  
+- **Excel** *(2025)*  
+- **SQL** *(2025)*  
+- **Tableau** *(2025)*  
+- **Базовый Python** *(2025)*  
+- **Бизнес-процессы и моделирование** *(2025)*  
+- **Продвинутый Python** *(2025)*  
+- **Структурный подход** *(2025)*  
+
 ### **🛠 В процессе изучения**  
 [<img src="https://img.shields.io/badge/-Stepik-01BABC?style=flat&logo=stepik&logoColor=white" alt="Stepik">](https://stepik.org)  
 - Машинное обучение *(2025)*  
 - WEB-парсинг на Python *(2025)*  
+
 ---
 ## **🌍 Волонтерство**  
 - Регулярное участие в цифровых проектах («Наш город», «Активный гражданин»).  
@@ -111,6 +125,9 @@
 ### **📌 Контакты**  
 [![Email](https://img.shields.io/badge/Email-ShcherbakovVS@hotmail.com-0078D4?logo=microsoft-outlook)](mailto:ShcherbakovVS@hotmail.com) [![Phone](https://img.shields.io/badge/Phone-+7(968)400--12--03-25D366?logo=whatsapp)](tel:+79684001203) [![Location](https://img.shields.io/badge/Location-Moscow-red?logo=googlemaps)](https://maps.google.com/?q=Moscow) [![Telegram](https://img.shields.io/badge/Telegram-@ShcherbakovVladislav-26A5E4?logo=telegram)](https://t.me/ShcherbakovVladislav) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin)](https://linkedin.com/in/...)
 - **Резюме:** [PDF-версия](...)
+
+
+
 
 
 
