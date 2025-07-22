@@ -64,7 +64,6 @@
 
 ## **📜 Сертификаты**  
 
-### **🎓 Программирование и анализ данных**  
 [<img src="https://img.shields.io/badge/-Stepik-01BABC?style=flat&logo=stepik&logoColor=white" alt="Stepik">](https://stepik.org)  
 - [«Поколение Python» для начинающих](https://stepik.org/cert/XXXXXX) *(Stepik, 2024)*  
 - [Интерактивный тренажёр по SQL](https://stepik.org/cert/XXXXXX) *(Stepik, 2024)*  
