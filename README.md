@@ -1,6 +1,6 @@
 # Владислав Щербаков | Data Analyst
 
-[![Email](https://img.shields.io/badge/Email-ShcherbakovVS@hotmail.com-0078D4?logo=microsoft-outlook)](mailto:ShcherbakovVS@hotmail.com) [![Phone](https://img.shields.io/badge/Phone-+7(968)400--12--03-25D366?logo=whatsapp)](tel:+79684001203) [![Location](https://img.shields.io/badge/Location-Moscow-red?logo=googlemaps)](https://maps.google.com/?q=Moscow) [![Telegram](https://img.shields.io/badge/Telegram-@ShcherbakovVladislav-26A5E4?logo=telegram)](https://t.me/ShcherbakovVladislav) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin)](https://linkedin.com/in/...)
+• <img src="https://api.iconify.design/mdi:email.svg" width="16" alt="Email"/> ShcherbakovVS@hotmail.com • <img src="https://api.iconify.design/mdi:phone.svg" width="16" alt="Phone"/> +7(968) 400-12-03 • <img src="https://api.iconify.design/mdi:map-marker.svg" width="16" alt="Location"/> Москва • <img src="https://api.iconify.design/mdi:telegram.svg" width="16" alt="Telegram"/> [@ShcherbakovVladislav](https://t.me/ShcherbakovVladislav) • <img src="https://api.iconify.design/mdi:linkedin.svg" width="16" alt="LinkedIn"/> [Profile](https://linkedin.com/in/...)
 
 ---
 
@@ -63,9 +63,18 @@
 ---
 
 ## **📜 Сертификаты**  
-- «Поколение Python» (Stepik, 2024)  
-- Интерактивный тренажер по SQL (Stepik, 2024)  
-- Машинное обучение (Stepik, в процессе)  
+
+### **🎓 Программирование и анализ данных**  
+[<img src="https://img.shields.io/badge/-Stepik-01BABC?style=flat&logo=stepik&logoColor=white" alt="Stepik">](https://stepik.org)  
+- [«Поколение Python» для начинающих](https://stepik.org/cert/XXXXXX) *(Stepik, 2024)*  
+- [Интерактивный тренажёр по SQL](https://stepik.org/cert/XXXXXX) *(Stepik, 2024)*  
+- [«Поколение Python» для продвинутых](https://stepik.org/cert/XXXXXX) *(Stepik, 2025)*  
+
+### **🛠 В процессе изучения**  
+[<img src="https://img.shields.io/badge/-Stepik-01BABC?style=flat&logo=stepik&logoColor=white" alt="Stepik">](https://stepik.org)  
+- [Машинное обучение](https://stepik.org/course/XXXXXX) *(в процессе, 2024)*  
+- [WEB-парсинг на Python](https://stepik.org/course/XXXXXX) *(в процессе, 2024)*  
+
 
 ---
 
@@ -83,5 +92,6 @@
 ---
 
 ### **📌 Контакты**  
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)  
-- **Резюме:** [PDF-версия](...) *(если загружена в репозиторий)*  
+[![Email](https://img.shields.io/badge/Email-ShcherbakovVS@hotmail.com-0078D4?logo=microsoft-outlook)](mailto:ShcherbakovVS@hotmail.com) [![Phone](https://img.shields.io/badge/Phone-+7(968)400--12--03-25D366?logo=whatsapp)](tel:+79684001203) [![Location](https://img.shields.io/badge/Location-Moscow-red?logo=googlemaps)](https://maps.google.com/?q=Moscow) [![Telegram](https://img.shields.io/badge/Telegram-@ShcherbakovVladislav-26A5E4?logo=telegram)](https://t.me/ShcherbakovVladislav) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin)](https://linkedin.com/in/...)
+
+- **Резюме:** [PDF-версия](...) *(если загружена в репозиторий)*
