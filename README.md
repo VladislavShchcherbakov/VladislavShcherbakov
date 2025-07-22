@@ -1,10 +1,6 @@
 # Владислав Щербаков | Data Analyst
 
-📧 **Email:** ShcherbakovVS@hotmail.com  
-📞 **Телефон:** +7(968) 400-12-03  
-📍 **Локация:** Москва, Россия  
-🔗 **Telegram:** [@ShcherbakovVladislav](https://t.me/ShcherbakovVladislav)  
-💼 **LinkedIn:** [Ваш LinkedIn](https://www.linkedin.com/in/...) *(если есть)*  
+[![Email](https://img.shields.io/badge/Email-ShcherbakovVS@hotmail.com-0078D4?logo=microsoft-outlook)](mailto:ShcherbakovVS@hotmail.com) [![Phone](https://img.shields.io/badge/Phone-+7(968)400--12--03-25D366?logo=whatsapp)](tel:+79684001203) [![Location](https://img.shields.io/badge/Location-Moscow-red?logo=googlemaps)](https://maps.google.com/?q=Moscow) [![Telegram](https://img.shields.io/badge/Telegram-@ShcherbakovVladislav-26A5E4?logo=telegram)](https://t.me/ShcherbakovVladislav) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin)](https://linkedin.com/in/...)
 
 ---
 
@@ -40,8 +36,6 @@
 - **Описание:** Визуализация статистики матчей и прогнозирование результатов.  
 - **GitHub:** [Ссылка на проект](...)  
 
-*(Добавьте ссылки на реальные проекты, если они есть в вашем GitHub.)*  
-
 ---
 
 ## **💼 Опыт работы**
@@ -49,7 +43,7 @@
 ### **Правительство Москвы, Госинспекция по недвижимости**  
 **Москва, Россия**  
 *Главный специалист управлений по контролю за использованием объектов недвижимости*  
-`2012 – 2024`  
+*(2012 – 2024)*
 
 **Стек:** Excel (ВПР), визуализация в PowerPoint  
 
