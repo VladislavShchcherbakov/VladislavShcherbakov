@@ -65,14 +65,14 @@
 ## **📜 Сертификаты**  
 
 [<img src="https://img.shields.io/badge/-Stepik-01BABC?style=flat&logo=stepik&logoColor=white" alt="Stepik">](https://stepik.org)  
-- [«Поколение Python» для начинающих](https://stepik.org/cert/XXXXXX) *(Stepik, 2024)*  
-- [Интерактивный тренажёр по SQL](https://stepik.org/cert/XXXXXX) *(Stepik, 2024)*  
-- [«Поколение Python» для продвинутых](https://stepik.org/cert/XXXXXX) *(Stepik, 2025)*  
+- [«Поколение Python: курс для начинающих»](https://stepik.org/cert/2474707) *(Stepik, 2024)*  
+- [«Поколение Python: курс для продвинутых»](https://stepik.org/cert/2919133) *(Stepik, 2025)*  
+- [«Интерактивный тренажёр по SQL»](https://stepik.org/cert/2528386) *(Stepik, 2024)*  
 
 ### **🛠 В процессе изучения**  
 [<img src="https://img.shields.io/badge/-Stepik-01BABC?style=flat&logo=stepik&logoColor=white" alt="Stepik">](https://stepik.org)  
-- [Машинное обучение](https://stepik.org/course/XXXXXX) *(в процессе, 2024)*  
-- [WEB-парсинг на Python](https://stepik.org/course/XXXXXX) *(в процессе, 2024)*  
+- Машинное обучение *(2025)*  
+- WEB-парсинг на Python *(025)*  
 
 
 ---
